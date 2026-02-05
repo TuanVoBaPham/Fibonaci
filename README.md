@@ -1,4 +1,5 @@
 **Yêu cầu của bài tập**
+-----
 Cho phép người sử dụng nhập vào số n - với n là số nguyên dương – chương 
 trình phải in ra màn hình toàn bộ dãy Finaboci tính từ phẩn tử thứ 1 tới phần tử 
 thứ n. Kết quả in ra màn hình phải có định dạng như sau: 
